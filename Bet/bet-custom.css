@@ -1,0 +1,6 @@
+/* Bet — custom UI styles */
+
+[data-mj="register-button"] {
+  background-color: red;
+  color: #fff;
+}
